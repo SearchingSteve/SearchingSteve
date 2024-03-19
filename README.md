@@ -1,4 +1,6 @@
-# Welcome to my GitHub profile!
+# Hello 👋, I'm Stephen Crocker (a.k.a SearchingSteve)
+
+Thank you for taking the time to learn more about me. I am a passionate enthusiast of all things tech, with a solid background in various programming languages and a diverse set of skills spanning software development, hardware, and business administration. I excel at crafting efficient, innovative solutions that leverage my technical expertise and strategic insight.
 
 ## 🛠️ Skills
 
